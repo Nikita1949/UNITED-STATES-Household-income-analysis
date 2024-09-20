@@ -18,8 +18,7 @@ US Houshold Income Data: The primary dataset utilized for this analysis is the "
 ## Tools
 - SQL Server- Data Cleaning
 - SQL Server- Exploratory Data Analysis
-- Tableau- Report Generation and Visualization [Click here](https://public.tableau.com/app/profile/abimbola.ajayi8433/vizzes)
-
+- Tableau- Report Generation and Visualization 
 ## Exploratory Data Analysis
 EDA involve exploring the data to answer the key questions, such as:
 - The top 10 largest state by land areas 
