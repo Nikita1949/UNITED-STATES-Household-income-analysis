@@ -91,3 +91,17 @@ Michigan, Texas, Florida, and Minnesota emerge as the top states by water area, 
 
 
 Visualizations of household income distribution across states reveal notable disparities. States such as New Jersey, Alaska, California and New York exhibit higher median household incomes, reflective of their large urban centers and diverse economies. Conversely, states like Mississippi and West Virginia have lower median incomes, indicative of socioeconomic challenges in rural areas. The findings also indicate that the Municipality region boasts the highest income levels.
+
+![image](https://github.com/user-attachments/assets/345784ec-398f-4de9-aa88-cd3ec8387553)
+![image](https://github.com/user-attachments/assets/fa0623fd-b97a-4bb9-adbe-4d621ef37bad)
+![image](https://github.com/user-attachments/assets/676efe76-ab43-4de7-b9b0-953b9d599e0c)
+![image](https://github.com/user-attachments/assets/2ed2e98f-f90c-4ba6-95a1-263594986459)
+## Limitations
+
+- While these surveys provide valuable insights into household income trends, it's important to acknowledge potential limitations such as sampling errors and data collection methodologies.
+- This analysis is based on income data from a specific time period and may not capture long-term income trends or changes in household income over time. Additionally, economic conditions and government policies can fluctuate, potentially influencing household income dynamics in ways that are not reflected in our analysis.
+- This analysis is constrained by the availability and accessibility of data. Data limitations, such as missing or incomplete data has restricted the scope or depth of the analysis and could impact the reliability of my findings.
+
+
+
+
